@@ -1,4 +1,4 @@
-# 1-Kintam-j-inicijavimas
+# Variables
 
 ### This is excercise with variables in JavaScript for begginers.
 
